@@ -1,0 +1,2 @@
+class MagnetController < ApplicationController
+end
